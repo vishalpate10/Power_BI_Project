@@ -5,7 +5,7 @@ It helps track key performance indicators (KPIs) like sales, profit, orders, cus
 
 The goal is to provide business insights for better decision-making.
 
-
+![Image](https://github.com/user-attachments/assets/662ba814-f8d9-43eb-8655-df51515ad426)
 **📁 Project File**
 File Name: vishal_Ecommerce_Sales_Dashboard.pbix
 
@@ -72,3 +72,5 @@ Name: Vishal
 Project Type: Power BI Visualization
 
 Use Case: Ecommerce Analytics
+
+
